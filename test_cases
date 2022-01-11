@@ -1,1 +1,12 @@
+TEST CASES FOR TIP CALCULATOR-:
 
+Check if the calculator is a tip calculator or a noraml/scientific calculator.
+Verify that all the buttons are present and text written on them is readable.
+Verify that the calculator gives the correct result in case of operations containing decimal numbers.
+Verify the number of digits allowed to enter in the calculator for any operation.
+Verify the functioning of memory functions.
+Verify the limit of the response value.
+Check if all the numbers are working ( 0 to 9).
+Check if the result key is working.
+Check if the tip calculator allows copy and paste functionality.
+Check if the formula of tip calculation working smoothly or not.
